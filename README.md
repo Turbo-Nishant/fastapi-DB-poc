@@ -30,7 +30,7 @@ fastapi_app/
 ---------------------
 1. Clone the github repository
 ```
-git clone https://github.com/satpal82bhandari/fastapi-demo-poc.git
+git clone https://github.com/Turbo-Nishant/github-action-poc.git
 cd fastapi-demo-poc
 ```
 
